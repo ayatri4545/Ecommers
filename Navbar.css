@@ -1,0 +1,52 @@
+.Navbar{
+    background-color: white;
+    height: 150px;
+    width: 100%;
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    }
+    .as{
+        height: 40px;
+        width: 100%;
+        background: #000;
+    }
+
+aside{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    gap: 100px;
+    
+}
+button{
+    padding: 10px 15px;
+    background: transparent;
+    color: white;
+    border: none;
+
+}
+.heading{
+    height: 30px;
+    width: 100%;
+    background: whitesmoke;
+    color: blue;
+    text-align: center;
+    margin-top: 20px;
+}
+button:hover{
+    background: transparent;
+    color:orange;
+}
+.navinput{
+ padding: 10px 15px;   
+ border-radius: 20px;
+ text-align: center;
+}
+.navh1{
+    text-align: center;
+    font-size: 30px;
+}

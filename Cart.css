@@ -1,0 +1,23 @@
+.Cart{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 60px;
+    
+}
+table{
+    
+    text-align: center;
+}
+.in,.de,.re{
+   color: black;
+   font-size: 19px;
+   
+
+}
+.in,.de,.re:hover{
+    color: orange;
+}
+.de{
+    font-size: 30px;
+}
